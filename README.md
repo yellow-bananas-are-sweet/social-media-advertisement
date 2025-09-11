@@ -30,7 +30,7 @@ Bivariate Analysis:
 Multivariate Analysis:
   On instagram videos target the hightest avg age group(25-30) while stories target slightly older age group(30+) on the ather hand on facebook image thargets the hightest age group (25-30) and carousel tagrgets slightly older age group(30+).
   In Facebook ads distribution is slighttly higher for Female (nearly 25%) while on Instagram its even.
-  Instagram targets slightly older audience with avg ageof 31 while Facebook tagets slightly young audience with avg age of 29.
+  Instagram targets slightly older audience with avg ageof 31 while Facebook tagets slightly young audience with avg age of 29. 
 
 
 
