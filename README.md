@@ -16,7 +16,7 @@ To identify trends and factors influencing engagement and conversions
 To derive data-driven insights for better targeting and ROI optimization
 To provide actionable recommendations for campaign improvement
 
-# So what analysis/conclusion can we make after the analysis:
+# So what analysis/conclusion can we make after the analysis from this dataset:
 Univariate Analysis: 
   Facebook(120) hosts almost twice as many ads compared to Instagram(60).
   Stories are the most popular ad format among the four types.
