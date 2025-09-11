@@ -2,17 +2,24 @@
 
 # Dataset:
 The dataset used for this analysis is from Kaggle's public dataset and contains detailed information about ad campaigns on Instagram and Facebook. The dataset contains the following information: 
+  
   Users: Profiles with age, gender, location, and interests for demographic segmentation.
+  
   Campaigns: Strategic data, including budget, duration, and timeline.
+  
   Ads: Creative assets linked to campaigns with targeting parameters.
+  
   Ad Events: Logs of user interactions (Impression to Purchase) for funnel analysis.
 
 # Intent:
 The intent behind this notebook is to analyze advertisements across different platforms, identify patterns & trends, and derive actionable insights to improve marketing strategies.
 
   To analyze ad campaign performance across social media platforms
+  
   To identify trends and factors influencing engagement and conversions
+  
   To derive data-driven insights for better targeting and ROI optimization
+  
   To provide actionable recommendations for campaign improvement
 
 # So what analysis/conclusion can we make after the analysis from this dataset:
