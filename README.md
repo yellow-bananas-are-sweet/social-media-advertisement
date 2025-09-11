@@ -39,5 +39,15 @@ Multivariate Analysis:
   Instagram targets slightly older audience with avg ageof 31 while Facebook tagets slightly young audience with avg age of 29. 
 
 
+<img width="782" height="505" alt="Screenshot 2025-09-10 at 8 16 06 PM" src="https://github.com/user-attachments/assets/4e680573-5013-4fef-ab73-3fb7918c3e71" />
+<img width="1036" height="604" alt="Screenshot 2025-09-10 at 8 16 01 PM" src="https://github.com/user-attachments/assets/e6cebd03-bc7d-4f5d-bdae-e1e8a970f9c0" />
+<img width="1018" height="584" alt="Screenshot 2025-09-10 at 8 15 55 PM" src="https://github.com/user-attachments/assets/e91561fd-16b6-4e2f-813b-5fe97cbd6237" />
+<img width="1110" height="592" alt="Screenshot 2025-09-10 at 8 15 48 PM" src="https://github.com/user-attachments/assets/18783021-4e54-40d5-880c-3ad2f06f4e8d" />
+<img width="1199" height="755" alt="Screenshot 2025-09-10 at 8 15 32 PM" src="https://github.com/user-attachments/assets/13efdb58-a330-48e0-9b53-630da591bcfc" />
+<img width="1156" height="705" alt="Screenshot 2025-09-10 at 8 14 59 PM" src="https://github.com/user-attachments/assets/c7186d82-6b5b-43e6-9536-284131bf8856" />
+<img width="1131" height="713" alt="Screenshot 2025-09-10 at 8 14 35 PM" src="https://github.com/user-attachments/assets/246a0bd9-c87d-4990-a9dc-ca08ad8c1aa2" />
+
+
+
 
 
